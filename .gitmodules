@@ -1,3 +1,6 @@
 [submodule "Firmware"]
 	path = Firmware
 	url = https://github.com/vermarish/Firmware.git
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = http://github.com/vermarish/qgroundcontrol.git
